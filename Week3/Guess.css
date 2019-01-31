@@ -1,0 +1,16 @@
+
+Margin{
+
+}
+body{
+background-image: url("Moon.png");
+border-image-repeat: no repeat;
+height: 200px;
+
+}
+h1{
+   color: lightgoldenrodyellow; 
+font-size: 40pt;
+text-align: center;
+font-family: 'Charm', cursive;
+}
